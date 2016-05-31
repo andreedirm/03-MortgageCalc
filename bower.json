@@ -1,0 +1,10 @@
+{
+  "name": "03-MortgageCalculator",
+  "main": "index.js",
+  "description": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
